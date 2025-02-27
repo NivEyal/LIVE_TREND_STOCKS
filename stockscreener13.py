@@ -9,7 +9,7 @@ Original file is located at
 
 # Move set_page_config to the absolute first line
 
-!pip install finnhub-python
+pip install finnhub-python
 kivy
 alpaca-trade-api
 pandas
