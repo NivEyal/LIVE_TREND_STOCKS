@@ -1,0 +1,7 @@
+pip install finnhub-python!
+kivy
+alpaca-trade-api
+pandas
+numpy
+requests
+matplotlib
