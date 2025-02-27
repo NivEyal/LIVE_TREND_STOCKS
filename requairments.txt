@@ -1,4 +1,4 @@
-!pip install finnhub-python
+finnhub-python
 kivy
 alpaca-trade-api
 pandas
